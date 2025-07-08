@@ -1,17 +1,19 @@
 # 📝 Publications
 
-A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=l_6n20kAAAAJ) page.
+A full publication list is available on my [dblp](https://dblp.org/pid/156/9683.html) page.
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICML 2025**] [How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation](https://arxiv.org/abs/2505.18956) \\
-**Yining Pan**, Qiongjie Cui, Xulei Yang, Na Zhao
-[[Project page]](https://github.com/IMPL-Lab/IAL)
+[**NeurIPS 2024**] [TopoFR: A Closer Look at Topology Alignment on Face Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/419b6c974712adb884bfbbeea8e94d1b-Abstract-Conference.html) \\
+**Jun Dan**, Yang Liu, Jiankang Deng, Haoyu Xie, Siyuan Li, Baigui Sun, Shan Luo
+[![GitHub Stars](https://img.shields.io/github/stars/modelscope/facechain?style=social)](https://github.com/modelscope/facechain)
+[![GitHub Forks](https://img.shields.io/github/forks/modelscope/facechain?style=social)](https://github.com/modelscope/facechain)
+# [[Project page]](https://github.com/DanJun6737/TopoFR)
 
 - This paper proposes the Image-Assists-LiDAR (IAL) model, which harmonizes LiDAR and images through synchronized augmentation, token fusion, and prior query generation.
-- IAL achieves SOTA performance on 3D panoptic benchmarks, outperforming baseline methods by over 4%.
+- TopoFR achieves SOTA performance on 3D panoptic benchmarks, outperforming baseline methods by over 4%.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
