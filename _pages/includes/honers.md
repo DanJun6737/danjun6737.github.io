@@ -1,6 +1,11 @@
 # 🎖 Honors and Awards
-- Singapore International Graduate Award (SINGA) from A*STAR.
-- ZJU Graduate of Merit, Triple-A Graduate.
-- National Undergraduate Electronics Design Contest, First Prize.
-- China College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition, First Prize.
-- Win the People Scholarship for three consecutive years (Top 1%).
+- National Scholarship, 2024.
+- NeurIPS 2024 Scholar Award.
+- ACM MM 2024 Student Travel Grant Award.
+- 3PEAK Corporate Scholarship, 2024.
+- Five-Star Graduate Student of Zhejiang University, 2023 & 2024.
+- Outstanding Graduate Student of Zhejiang University. 2021 & 2023 & 2024.
+- Outstanding Graduate of Chongqing City, 2020.
+- Outstanding Graduate of Chongqing University, 2020.
+- National Encouragement Scholarship, 2017 & 2018 & 2019.
+- Comprehensive Scholarship for Outstanding Students of Chongqing University, 2017 & 2018 & 2019 & 2020.
