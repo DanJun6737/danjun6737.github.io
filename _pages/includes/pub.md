@@ -16,7 +16,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 [[CSDN]](https://blog.csdn.net/sunbaigui/article/details/136556006)
 
 - TopoFR is the first attempt to leverage the powerful and substantial structure information hidden in large-scale face dataset to improve the generalization performance of face recognition models.
-- TransFace model has reached over **15K+** downloads on the [**ModelScope**](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform, and has been applied in various facial AIGC projects, such as [Alibaba Tongyi Wanxiang (通义万象写真馆)](https://tongyi.aliyun.com/wanxiang/), [FaceChain](https://github.com/modelscope/facechain), Fliggy (飞猪数字旅拍) and so on.
+- TransFace model has reached over **15K+** downloads on the [**ModelScope**](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform, and has been applied in various facial AIGC projects, such as [Alibaba Tongyi Wanxiang (通义万象写真馆)](https://tongyi.aliyun.com/wanxiang/), [FaceChain](https://github.com/modelscope/facechain), Fliggy (飞猪数字旅拍), etc.
 
 
 
