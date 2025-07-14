@@ -1,6 +1,6 @@
 # 📝 Publications
 
-A full publication list is available on my [dblp](https://dblp.org/pid/156/9683.html) page.
+A full publication list is available on my [google scholar](https://scholar.google.com.hk/citations?user=NB9Mn5MAAAAJ&hl=zh-CN) page.
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
@@ -10,10 +10,13 @@ A full publication list is available on my [dblp](https://dblp.org/pid/156/9683.
 **Jun Dan**, Yang Liu, Jiankang Deng, Haoyu Xie, Siyuan Li, Baigui Sun, Shan Luo
 [![GitHub Stars](https://img.shields.io/github/stars/modelscope/facechain?style=social)](https://github.com/modelscope/facechain)
 [![GitHub Forks](https://img.shields.io/github/forks/modelscope/facechain?style=social)](https://github.com/modelscope/facechain)
-# [[Project page]](https://github.com/DanJun6737/TopoFR)
+<a href='https://huggingface.co/spaces/developer0hye/TopoFR-Face-Recognition'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
+[[机器之心]](https://www.jiqizhixin.com/articles/2024-10-17-6) 
+[[CVer]](https://mp.weixin.qq.com/s/3NegnpJUGPfI_dOfkp_4LQ) 
+[[CSDN]](https://blog.csdn.net/sunbaigui/article/details/143230746?spm=1001.2014.3001.5502)
 
 - This paper proposes the Image-Assists-LiDAR (IAL) model, which harmonizes LiDAR and images through synchronized augmentation, token fusion, and prior query generation.
-- TopoFR achieves SOTA performance on 3D panoptic benchmarks, outperforming baseline methods by over 4%.
+- TopoFR achieves SOTA performance on various face benchmarks.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
