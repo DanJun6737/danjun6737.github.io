@@ -4,7 +4,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-Source Project</div><img src='images/TransFace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-Source Project</div><img src='images/FaceChain-FACT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Open-Source Project**] [FaceChain: A Playground for Human-centric Artificial Intelligence Generated Content](https://github.com/modelscope/facechain) \\
