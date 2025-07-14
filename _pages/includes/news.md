@@ -1,6 +1,7 @@
 # 🔥 News
 - *2024.09*: &nbsp;🍺🍺🍺 I am honored to be recognized as an **Outstanding Reviewer** for CVPR 2025. Acknowledgement to CVPR!
 - *2025.03*: &nbsp;🍺🍺🍺 Our team, "今天你科研了吗", win the **second place** in the finals of the 2nd Open Atom & HUAWEI Competition - [Innovation Contest for Training Online Monitoring Tools supported by Colossal AI](https://competition.atomgit.com/competitionInfo?id=9c368c336bcb14fa657f690a94519649). Congratulations to all team members!
+- *2025.03*: &nbsp;👑👑👑 I am honored to receive the **Best Oral Presentation Award** at [ICIAI 2025](https://www.iciai.org/html/2025.html). My sincere gratitude to ICIAI for this recognition!
 - *2025.02*: &nbsp;🎉🎉🎉 [Distinguish Then Exploit](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Distinguish_Then_Exploit_Source-free_Open_Set_Domain_Adaptation_via_Weight_CVPR_2025_paper.html) is accepted by **CVPR 2025**!
 - *2025.01*: &nbsp;🎉🎉🎉 [EHM](https://www.sciencedirect.com/science/article/abs/pii/S089360802500067X) is accepted by **Neural Network 2025**!
 - *2024.12*: &nbsp;🎉🎉🎉 [LLM4GEN](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=NB9Mn5MAAAAJ&sortby=pubdate&citation_for_view=NB9Mn5MAAAAJ:ufrVoPGSRksC) is accepted by **AAAI 2025**!
@@ -11,6 +12,8 @@
 - *2024.05*: &nbsp;🚀🚀🚀 TransFace is integrated in [FaceChain](https://github.com/modelscope/facechain) as a **key identity-preserved module** to assist Stable Diffusion in generating human portraits with fine-grained facial details and diverse styles. In the newest FaceChain-FACT version, with only 1 photo and 10 seconds, you can generate personal portraits in different settings (multiple styles now supported!).
 - *2024.05*: &nbsp;🎉🎉🎉 [PRCL](https://link.springer.com/article/10.1007/s11263-024-02016-8) is accepted by **IJCV 2024**!
 - *2023.10*: &nbsp;🎉🎉🎉 [TransFace](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=NB9Mn5MAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=NB9Mn5MAAAAJ:2osOgNQ5qMEC) is accepted by **ICCV 2023**! [Code](https://github.com/DanJun6737/TransFace) and [models](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) are publicly available!
+
+
 
 
 
