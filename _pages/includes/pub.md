@@ -7,7 +7,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2023**] [TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective](https://openaccess.thecvf.com/content/ICCV2023/html/Dan_TransFace_Calibrating_Transformer_Training_for_Face_Recognition_from_a_Data-Centric_ICCV_2023_paper.html) \\
-**Jun Dan**, Yang Liu, Haoyu Xie, Jiankang Deng, Haoran Xie, Xuansong Xie, Baigui Sun
+**Jun Dan**, Yang Liu, Haoyu Xie, Jiankang Deng, Haoran Xie, Xuansong Xie, Baigui Sun \\
 [![GitHub Stars](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social)](https://github.com/DanJun6737/TransFace)
 [![GitHub Forks](https://img.shields.io/github/forks/DanJun6737/TransFace?style=social)](https://github.com/DanJun6737/TransFace)
 [[**ModelScope**]](https://www.modelscope.cn/models/iic/cv_vit_face-recognition)
