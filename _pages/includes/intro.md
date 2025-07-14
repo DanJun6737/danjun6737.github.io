@@ -13,7 +13,7 @@ My representative open-source projects include:
 My current research interests include:
 - 1️⃣ 🌟🌟🌟 AIGC: identity-preserved human portraits generation, and face-centric perception & understanding model;
 - 2️⃣ Face Perception and Understanding: face recognition, face representation learning, and facial attribute recognition;
-- 3️⃣ Data-Centric AI: the development of efficient transformer architectures;
+- 3️⃣ Data-Centric AI: efficient transformer architectures;
 - 4️⃣ Transfer Learning: unsupervised/semi-supervised domain adaptation, graph domain adaptation, and domain generalization.
 
 
