@@ -10,10 +10,11 @@ A full publication list is available on my [google scholar](https://scholar.goog
 [**Open-Source Project**] [FaceChain: A Playground for Human-centric Artificial Intelligence Generated Content](https://github.com/modelscope/facechain) \\
 [![GitHub Stars](https://img.shields.io/github/stars/modelscope/facechain?style=social)](https://github.com/modelscope/facechain)
 [![GitHub Forks](https://img.shields.io/github/forks/modelscope/facechain?style=social)](https://github.com/modelscope/facechain)
+<a href='https://facechain-fact.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/DHqEl0qwi-M?si=y6VpInXdhIX0HpbI) \\
 [[ModelScope Studio]](https://modelscope.cn/studios/CVstudio/FaceChain-FACT)
 [[Alibaba Cloud‌ API]](https://help.aliyun.com/zh/model-studio/facechain-quick-start)
 [[HuggingFace Space]](https://huggingface.co/spaces/modelscope/FaceChain-FACT)
-<a href='https://facechain-fact.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/DHqEl0qwi-M?si=y6VpInXdhIX0HpbI)
+
 
 - FaceChain is a novel framework for generating identity-preserved human portraits.
 - FaceChain has both high controllability and authenticity in portrait generation, including text-to-image and inpainting based pipelines, and is seamlessly compatible with ControlNet and LoRAs.
