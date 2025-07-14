@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jun Dan"
   avatar           : "images/jundan-test.png"
-  bio              : "PhD student in Zhejiang University"
+  bio              : "Ph.D. student in Zhejiang University"
   location         : "HangZhou, China"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  https://scholar.google.com.hk/citations?user=NB9Mn5MAAAAJ&hl=zh-CN # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "danjun@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
