@@ -2,11 +2,12 @@
 
 A full publication list is available on my [google scholar](https://scholar.google.com.hk/citations?user=NB9Mn5MAAAAJ&hl=zh-CN) page.
 
+
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/TransFace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-Source Project</div><img src='images/TransFace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICCV 2023**] [TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective](https://openaccess.thecvf.com/content/ICCV2023/html/Dan_TransFace_Calibrating_Transformer_Training_for_Face_Recognition_from_a_Data-Centric_ICCV_2023_paper.html) \\
+[**Open-Source Project**] [TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective](https://openaccess.thecvf.com/content/ICCV2023/html/Dan_TransFace_Calibrating_Transformer_Training_for_Face_Recognition_from_a_Data-Centric_ICCV_2023_paper.html) \\
 **Jun Dan**, Yang Liu, Haoyu Xie, Jiankang Deng, Haoran Xie, Xuansong Xie, Baigui Sun \\
 [![GitHub Stars](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social)](https://github.com/DanJun6737/TransFace)
 [![GitHub Forks](https://img.shields.io/github/forks/DanJun6737/TransFace?style=social)](https://github.com/DanJun6737/TransFace)
@@ -26,6 +27,29 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 <!-- Paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/TransFace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICCV 2023**] [TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective](https://openaccess.thecvf.com/content/ICCV2023/html/Dan_TransFace_Calibrating_Transformer_Training_for_Face_Recognition_from_a_Data-Centric_ICCV_2023_paper.html) \\
+**Jun Dan**, Yang Liu, Haoyu Xie, Jiankang Deng, Haoran Xie, Xuansong Xie, Baigui Sun \\
+[![GitHub Stars](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social)](https://github.com/DanJun6737/TransFace)
+[![GitHub Forks](https://img.shields.io/github/forks/DanJun6737/TransFace?style=social)](https://github.com/DanJun6737/TransFace)
+[[**ModelScope**]](https://www.modelscope.cn/models/iic/cv_vit_face-recognition)
+[[Code in FaceChain Rep.]](https://github.com/modelscope/facechain/tree/main/face_module/TransFace)
+[[阿里云]](https://developer.aliyun.com/article/1319924)
+[[CSDN]](https://blog.csdn.net/sunbaigui/article/details/136556006)
+
+- TransFace is a cutting-edge facial representation extractor in the AIGC era, designed to capture fine-grained facial features at the patch-level.
+- TransFace is integrated in [FaceChain](https://github.com/modelscope/facechain) as a key identity-preserved module to assist Stable Diffusion in generating human portraits with fine-grained facial details and diverse styles.
+- **Industry Impact:** TransFace model has reached over **15K+** downloads on the [**ModelScope**](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform, and has been applied in various facial AIGC projects, such as [Alibaba Tongyi Wanxiang (通义万象写真馆)](https://tongyi.aliyun.com/wanxiang/), [FaceChain](https://github.com/modelscope/facechain), Fliggy (飞猪数字旅拍), etc.
+
+
+
+</div>
+</div>
+
+
+<!-- Paper 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TopoFR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,7 +70,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
-<!-- Paper 3 -->
+<!-- Paper 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TFGDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +85,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
-<!-- Paper 4 -->
+<!-- Paper 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 </div><img src='images/HOGDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
