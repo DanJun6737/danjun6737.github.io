@@ -3,7 +3,9 @@
 I am now a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/).
 Previously, I graduated with a bachelor’s degree in 2020 from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/).
 
-My representative open-source projects include [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain) and [TransFace ![](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social&label=Stars)](https://github.com/DanJun6737/TransFace); 
+My representative open-source projects include:  
+- (1) [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain) (a popular framework for generating identity-preserved human portraits); 
+- (2) [TransFace ![](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social&label=Stars)](https://github.com/DanJun6737/TransFace) (a cutting-edge face representation extractor in the AIGC era);
 
 
 My current research interests include:
