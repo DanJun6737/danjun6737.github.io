@@ -1,6 +1,6 @@
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-:raised_hands: :raised_hands: :raised_hands: Welcome to my personal page!
+🙌 🙌 🙌 Welcome to my personal page!
 
 I am now a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/).
 Previously, I graduated with a bachelor’s degree in 2020 from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/).
