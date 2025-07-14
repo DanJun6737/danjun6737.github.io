@@ -3,7 +3,7 @@
 A full publication list is available on my [google scholar](https://scholar.google.com.hk/citations?user=NB9Mn5MAAAAJ&hl=zh-CN) page.
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TopoFR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2024**] [TopoFR: A Closer Look at Topology Alignment on Face Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/419b6c974712adb884bfbbeea8e94d1b-Abstract-Conference.html) \\
