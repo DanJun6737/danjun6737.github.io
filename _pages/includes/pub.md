@@ -62,7 +62,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 <!-- Paper 4 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/HOGDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 </div><img src='images/HOGDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ACM MM 2024**] [HOGDA: Boosting Semi-supervised Graph Domain Adaptation via High-Order Structure-Guided Adaptive Feature Alignment](https://dl.acm.org/doi/abs/10.1145/3664647.3680765) \\
