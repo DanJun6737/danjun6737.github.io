@@ -15,7 +15,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 [[CVer]](https://mp.weixin.qq.com/s/3NegnpJUGPfI_dOfkp_4LQ) 
 [[CSDN]](https://blog.csdn.net/sunbaigui/article/details/143230746?spm=1001.2014.3001.5502)
 
-- This paper proposes the Image-Assists-LiDAR (IAL) model, which harmonizes LiDAR and images through synchronized augmentation, token fusion, and prior query generation.
+- TopoFR is the first attempt to leverage the powerful and substantial structure information hidden in large-scale face dataset to improve the generalization performance of face recognition models.
 - TopoFR achieves SOTA performance on various face benchmarks.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
