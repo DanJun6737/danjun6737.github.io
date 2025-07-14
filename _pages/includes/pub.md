@@ -46,3 +46,33 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
+<!-- Paper 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TFGDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NeurIPS 2024**] [TFGDA: Exploring Topology and Feature Alignment in Semi-supervised Graph Domain Adaptation through Robust Clustering](https://proceedings.neurips.cc/paper_files/paper/2024/hash/59e73ff865b56cba6ab7f6b2cce1425d-Abstract-Conference.html) \\
+**Jun Dan**, Weiming Liu, Chunfeng Xie, Hua Yu, Shunjie Dong, Yanchao Tan
+
+- TFGDA is an advanced graph transfer learning framework that leverages the intrinsic topological structure information embedded in graphs to improve model generilization performance across domains.
+- TFGDA showcases superior performance on multiple transfer learning benchmarks.
+
+
+</div>
+</div>
+
+
+<!-- Paper 4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/HOGDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ACM MM 2024**] [HOGDA: Boosting Semi-supervised Graph Domain Adaptation via High-Order Structure-Guided Adaptive Feature Alignment](https://dl.acm.org/doi/abs/10.1145/3664647.3680765) \\
+**Jun Dan**, Weiming Liu, Mushui Liu, Chunfeng Xie, Shunjie Dong, Guofang Ma, Yanchao Tan, Jiazheng Xing
+
+- HOGDA is a novel graph transfer learning framework that incorporates a high-order structure information mixing module, effectively capturing abundant structure information in graphs and greatly enhancing the feature extractor's adaptability across different domains.
+- HOGDA demonstrates remarkable transfer performance on various benchmarks.
+
+
+</div>
+</div>
+
+
