@@ -4,7 +4,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-Source Project</div><img src='images/FaceChain-FACT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-Source Project</div><img src='images/FaceChain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Open-Source Project**] [FaceChain: A Playground for Human-centric Artificial Intelligence Generated Content](https://github.com/modelscope/facechain) \\
@@ -49,7 +49,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 <!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TopoFR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/To.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2024**] [TopoFR: A Closer Look at Topology Alignment on Face Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/419b6c974712adb884bfbbeea8e94d1b-Abstract-Conference.html) \\
