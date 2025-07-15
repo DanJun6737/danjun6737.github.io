@@ -15,7 +15,7 @@ My current research interests include:
 
 My representative open-source projects include:  
 - (1) [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain) (a popular framework for generating identity-preserved human portraits); 
-- (2) [TransFace ![](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social&label=Stars)](https://github.com/DanJun6737/TransFace) (a cutting-edge face representation extractor in the AIGC era).
+- (2) [TransFace ![](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social&label=Stars)](https://github.com/DanJun6737/TransFace) (a cutting-edge facial representation extractor in the AIGC era).
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
