@@ -39,7 +39,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 [[CSDN]](https://blog.csdn.net/sunbaigui/article/details/136556006)
 
 - TransFace is a cutting-edge facial representation extractor in the AIGC era, designed to capture fine-grained facial features at the patch-level.
-- TransFace is integrated in [FaceChain](https://github.com/modelscope/facechain) as a key identity-preserved module to assist Stable Diffusion in generating human portraits with fine-grained facial details and diverse styles.
+- TransFace is integrated in [FaceChain](https://github.com/modelscope/facechain) as a **key identity-preserved module** to assist Stable Diffusion in generating human portraits with fine-grained facial details and diverse styles.
 - **Industry Impact:** TransFace model has reached over **15K+** downloads on the [**ModelScope**](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform, and has been applied in various facial AIGC projects, such as [Alibaba Tongyi Wanxiang (通义万象写真馆)](https://tongyi.aliyun.com/wanxiang/), [FaceChain](https://github.com/modelscope/facechain), Fliggy (飞猪数字旅拍), etc.
 
 
