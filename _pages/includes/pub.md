@@ -99,3 +99,18 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
+<!-- Paper 6 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 </div><img src='images/DTE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2025**] [Distinguish Then Exploit: Source-free Open Set Domain Adaptation via Weight Barcode Estimation and Sparse Label Assignment](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Distinguish_Then_Exploit_Source-free_Open_Set_Domain_Adaptation_via_Weight_CVPR_2025_paper.html) \\
+Weiming Liu**<sup>*</sup>**, **Jun Dan<sup>*</sup>**, Fan Wang, Xinting Liao, Junhao Dong, Hua Yu, Shunjie Dong, Lianyong Qi
+
+- DTE is a novel framework for source-free open set domain adaptation problem. DTE first adopts weight barcode estimation with proposed target sample reweighting optimization method on partial unbalanced optimal transport to determine the known and unknown target samples without prior information. Then DTE utilizes sparse sample-label matching on optimal transport to further leverage useful and accurate source knowledge in the target domain.
+- DTE outperforms SOTA models on tackling the source-free open set domain adaptation problem.
+
+
+</div>
+</div>
+
+
