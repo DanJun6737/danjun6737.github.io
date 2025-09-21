@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉🎉 TransFace++ is accepted by **TPAMI**! Many thanks to all co-authors.
 - *2025.06*: &nbsp;🍺🍺🍺 I am honored to be recognized as an **Outstanding Reviewer** for CVPR 2025. Acknowledgement to CVPR!
 - *2025.03*: &nbsp;🍺🍺🍺 Our team, "今天你科研了吗", win the **second place** in the finals of the 2nd Open Atom & HUAWEI Competition - [Innovation Contest for Training Online Monitoring Tools supported by Colossal AI](https://competition.atomgit.com/competitionInfo?id=9c368c336bcb14fa657f690a94519649). Congratulations to all team members!
 - *2025.03*: &nbsp;👑👑👑 I am honored to receive the **Best Oral Presentation Award** at [**ICIAI 2025**](https://www.iciai.org/html/2025.html). Acknowledgement to ICIAI!
