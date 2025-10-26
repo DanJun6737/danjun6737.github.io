@@ -66,7 +66,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 </div>
-
+</div>
 
 <!-- Paper 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025 </div><img src='images/TransFace_pp.png' alt="sym" width="100%"></div></div>
