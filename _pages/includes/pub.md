@@ -66,10 +66,27 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 </div>
-</div>
 
 
 <!-- Paper 4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TopoFR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**TPAMI 2025**] [TransFace++: Rethinking the Face Recognition Paradigm with a Focus on Accuracy, Efficiency, and Security](https://ieeexplore.ieee.org/abstract/document/11184862) \\
+**Jun Dan**, Yang Liu, Baigui Sun, Jiankang Deng, Shan Luo
+[![GitHub Stars](https://img.shields.io/github/stars/DanJun6737/TransFace_pp?style=social)](https://github.com/DanJun6737/TransFace_pp)
+[![GitHub Forks](https://img.shields.io/github/forks/DanJun6737/TransFace_pp?style=social)](https://github.com/DanJun6737/TransFace_pp)
+
+- TransFace++ is the first cutting-edge FR backbone that operates directly on images bytes, which opens up a viable path for future research on FR
+privacy-preserving systems.
+- Unlike conventional FR models that perform inference on RGB tensors, TransFace++ directly makes predictions on image bytes, bypassing the complex image decoding steps, and greatly boosting the real-time capability of FR systems.
+
+
+</div>
+</div>
+
+
+<!-- Paper 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TFGDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,7 +101,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
-<!-- Paper 5 -->
+<!-- Paper 6 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 </div><img src='images/HOGDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,7 +116,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
-<!-- Paper 6 -->
+<!-- Paper 7 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 </div><img src='images/DTE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
