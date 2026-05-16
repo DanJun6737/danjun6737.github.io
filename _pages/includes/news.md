@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉🎉 [Knowledge is Power] is accepted by **IJCV 2026**! Congratulations to Jiazheng!
+- *2026.02*: &nbsp;🎉🎉🎉 [Bypassing the Transport Plan] is accepted by **CVPR 2026**! Congratulations to Yang Xiao!
 - *2025.09*: &nbsp;🎉🎉🎉 [TransFace++](https://ieeexplore.ieee.org/abstract/document/11184862) is accepted by **TPAMI**! Many thanks to all co-authors.
 - *2025.09*: &nbsp;🎉🎉🎉 ETM is accepted by **NeurIPS 2025**!
 - *2025.06*: &nbsp;🍺🍺🍺 I am honored to be recognized as an **Outstanding Reviewer** for CVPR 2025. Acknowledgement to CVPR!
