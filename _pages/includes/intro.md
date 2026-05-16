@@ -2,8 +2,7 @@
 
 🙌 🙌 🙌 Welcome to my personal page!
 
-I am now a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/).
-Previously, I graduated with a bachelor’s degree in 2020 from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/).
+I currently work as a Researcher at Alibaba Tongyi Lab. I received my Ph.D. degree in the College of Information Science & Electronic Engineering from [Zhejiang University](https://www.zju.edu.cn/) in 2025. Previously, I graduated with a bachelor’s degree in 2020 from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/).
 
 
 My current research interests include:
