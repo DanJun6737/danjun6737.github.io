@@ -1,6 +1,6 @@
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉🎉 [Knowledge is Power](https://arxiv.org/abs/2603.26033) is accepted by **IJCV 2026**! Congratulations to Jiazheng!
-- *2026.04*: &nbsp;🎉🎉🎉 [Wan2.7-Image[ is launched! [(Technical Report)] (https://arxiv.org/abs/2604.19858v2)
+- *2026.04*: &nbsp;🎉🎉🎉 **Wan2.7-Image** is launched! [(Technical Report)](https://arxiv.org/abs/2604.19858v2)
 - *2026.02*: &nbsp;🎉🎉🎉 Bypassing the Transport Plan is accepted by **CVPR 2026**! Congratulations to Yang Xiao!
 - *2025.09*: &nbsp;🎉🎉🎉 [TransFace++](https://ieeexplore.ieee.org/abstract/document/11184862) is accepted by **TPAMI**! Many thanks to all co-authors.
 - *2025.09*: &nbsp;🎉🎉🎉 ETM is accepted by **NeurIPS 2025**!
