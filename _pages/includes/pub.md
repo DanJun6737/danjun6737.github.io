@@ -8,10 +8,9 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 
 
-[**Technical Report**] [Wan-Image: Pushing the Boundaries of Generative Visual Intelligence](https://arxiv.org/abs/2604.19858v2) \\
+[**Technical Report**] [Wan-Image: Pushing the Boundaries of Generative Visual Intelligence](https://arxiv.org/abs/2604.19858v2) 
 
-- FaceChain is a novel framework for generating identity-preserved human portraits.
-- FaceChain has both high controllability and authenticity in portrait generation, including text-to-image and inpainting based pipelines, and is seamlessly compatible with ControlNet and LoRAs.
+- Core contributors of large-scale data construction & cleaning and foundation model training.
 
 
 
