@@ -5,7 +5,7 @@
 I currently work as a Researcher on the Wan Team at Alibaba Tongyi Lab. I received my Ph.D. degree in the College of Information Science & Electronic Engineering from [Zhejiang University](https://www.zju.edu.cn/) in 2025. Previously, I graduated with a bachelor’s degree in 2020 from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/).
 
 My current research interests include:
-- 1️⃣ 🌟🌟🌟 AIGC: image/video generation, identity-preserved human portraits generation, and face-centric perception & understanding model;
+- 1️⃣ 🌟🌟🌟 AIGC: image/video generation, identity-preserved human portraits generation, and face-centric perception & understanding;
 - 2️⃣ Face Perception and Understanding: face recognition, robust face feature embedding, and deep face analysis;
 - 3️⃣ Data-Centric AI: efficient transformer architectures;
 - 4️⃣ Transfer Learning: unsupervised/semi-supervised domain adaptation, graph domain adaptation, and domain generalization.
