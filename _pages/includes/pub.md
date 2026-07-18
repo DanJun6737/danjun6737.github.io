@@ -4,6 +4,21 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 
 <!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/wan2.7.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[**Technical Report**] [Wan-Image: Pushing the Boundaries of Generative Visual Intelligence](https://arxiv.org/abs/2604.19858v2) \\
+
+- FaceChain is a novel framework for generating identity-preserved human portraits.
+- FaceChain has both high controllability and authenticity in portrait generation, including text-to-image and inpainting based pipelines, and is seamlessly compatible with ControlNet and LoRAs.
+
+
+
+</div>
+</div>
+
+<!-- Paper 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open-Source Project</div><img src='images/FaceChain-FACT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -25,7 +40,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
-<!-- Paper 2 -->
+<!-- Paper 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/TransFace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +63,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 
-<!-- Paper 3 -->
+<!-- Paper 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TopoFR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +83,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 </div>
 
-<!-- Paper 4 -->
+<!-- Paper 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025 </div><img src='images/TransFace_pp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,7 +101,7 @@ privacy-preserving systems.
 </div>
 
 
-<!-- Paper 5 -->
+<!-- Paper 6 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='images/TFGDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,7 +116,7 @@ privacy-preserving systems.
 </div>
 
 
-<!-- Paper 6 -->
+<!-- Paper 7 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 </div><img src='images/HOGDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -116,7 +131,7 @@ privacy-preserving systems.
 </div>
 
 
-<!-- Paper 7 -->
+<!-- Paper 8 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 </div><img src='images/DTE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
